@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaledkalaldeh
+- 👋 Hi, I’m @kushion
 - 👀 I’m interested in Python, Flask, Computer Vision and NFTs
 - 🌱 I’m currently learning all sorts of building back-end apps  
 - 💞️ I’m looking to collaborate on new entrepreneurial projects
